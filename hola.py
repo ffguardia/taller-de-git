@@ -1,1 +1,3 @@
-print("Hola Mundo")
+var = "Mundo"
+
+print(f"Hola {var}")
